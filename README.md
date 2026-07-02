@@ -1,7 +1,8 @@
 # fallout_nametag
 A Nametag PCB made during Fallout!
+<br>
 
-An NFC-Based NameCard with an LED light and nice design ;3
+An NFC-Based NameCard with an LED light and nice design ;3<br>
 Schematic:
 <img width="283" height="241" alt="image" src="https://github.com/user-attachments/assets/c04bed63-22f8-4e26-96f7-931d5786750c" />
 PCB:
