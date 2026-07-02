@@ -10,8 +10,9 @@ PCB:
 <img width="508" height="319" alt="image" src="https://github.com/user-attachments/assets/f0c5a7e5-5cdf-404c-9911-aa02b8ee3851" />
 
 Name: @neha (on slack)
+<br>
 BOM:
-<img width="706" height="147" alt="image" src="https://github.com/user-attachments/assets/099eefb4-67f3-4c4f-ac10-f5d73cd55462" />
+<img width="770" height="404" alt="image" src="https://github.com/user-attachments/assets/758ed740-0598-4793-aac0-28cfe6a66f34" />
 
 
 
